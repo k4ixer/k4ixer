@@ -1,9 +1,20 @@
-<h1 align="center">Hola 👋, soy Alejandro Herrero</h1>
+<div align="center">
 
-## 💻 Habilidades:  
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=python,linux,github,vscode,kali" /> 
-</p>  
+<h1>👋 Hola, soy <span style="color:#4CAF50;">Alejandro Herrero</span></h1>
+</div>
+
+<p align="center">
+  <!-- Python Badge -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  
+  <!-- Bash Badge -->
+  <img src="https://img.shields.io/badge/Bash-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/>
+  
+  <!-- Linux Badge -->
+  <img src="https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge"/>
+</p>
+
+
 
 ## 👨🏻‍💻 Sobre mí  
 👨 &nbsp;Tengo 16 años.  
