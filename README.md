@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Alejandro Herrero</h1>
 
-<!--
-**k4ixer/k4ixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Habilidades:  
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=python,linux,github,vscode,kali" /> 
+</p>  
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 Sobre mí  
+👨 &nbsp;Tengo 16 años.  
+📚 &nbsp;Estudiante de **1º CFGM Sistemas Microinformáticos y Redes**.  
+🛡️ &nbsp;Aprendiendo ciberseguridad de forma autodidacta.  
+🚀 &nbsp;Preparándome para la certificación **eJPT (Junior Penetration Tester)**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗃️ Mis Proyectos  
+- [WpKiller](https://github.com/k4ixer/WpKiller) – Herramienta para enumerar WordPress en auditorías.  
+- [k4ixer.github.io](k4ixer.github.io) – Mi web personal sobre ciberseguridad.  
+
+<div align="center"></div>
