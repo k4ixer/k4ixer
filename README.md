@@ -23,7 +23,3 @@
 🚀 &nbsp;Preparándome para la certificación **eJPT (Junior Penetration Tester)**.  
 
 ## 🗃️ Mis Proyectos  
-- [WpKiller](https://github.com/k4ixer/WpKiller) – Herramienta para enumerar WordPress en auditorías.  
-- [k4ixer.github.io](k4ixer.github.io) – Mi web personal sobre ciberseguridad.  
-
-<div align="center"></div>
